@@ -1,5 +1,5 @@
 
-## CRUD PRODUCTOS
+## CRUD PRODUCTOS - Laravel 8, Vue JS 2.6
 
 Instalación:
 - Crear .env
